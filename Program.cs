@@ -16,7 +16,7 @@ namespace SmartHomeSystem
 
     public class SmartHomeController
     {
-        // TODO2: Declare an event named "OnCommandReceived" using the delegate
+        // TODO2:  Declare an event named "OnCommandReceived" using the delegate
         public event CommandHandler OnCommandReceived;
 
         public void ExecuteCommand(DeviceCommand command)
