@@ -50,7 +50,7 @@ namespace SmartHomeSystem
         }
     }
 
-    // TODO4: Create a class "AC" with a method "HandleCommand" that reacts to SetTemperature and TurnOff commands.
+    // TODO4:Create a class "AC" with a method "HandleCommand" that reacts to SetTemperature and TurnOff commands.
     public class AC
     {
         public void HandleCommand(DeviceCommand command)
