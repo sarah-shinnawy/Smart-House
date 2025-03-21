@@ -30,7 +30,7 @@ namespace SmartHomeSystem
         }
     }
 
-    // TODO3: Create a class "Light" with a method "HandleCommand" that reacts to TurnOn and TurnOff commands.
+    // TODO3: Create a  class "Light" with a method "HandleCommand" that reacts to TurnOn and TurnOff commands.
     public class Light
     {
         public void HandleCommand(DeviceCommand command)
