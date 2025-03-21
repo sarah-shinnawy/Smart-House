@@ -70,7 +70,7 @@ namespace SmartHomeSystem
         }
     }
 
-    // TODO5: Create a class "Alarm" with a method "HandleCommand" that reacts to ActivateAlarm and TurnOff commands.
+    // TODO5:Create a class "Alarm" with a method "HandleCommand" that reacts to ActivateAlarm and TurnOff commands.
     public class Alarm
     {
         public void HandleCommand(DeviceCommand command)
