@@ -11,7 +11,7 @@ namespace SmartHomeSystem
         ActivateAlarm
     }
 
-    // TODO 1: Define a delegate named "CommandHandler" that takes a DeviceCommand as a parameter named "command".
+    // TODO 1: Define  a delegate named "CommandHandler" that takes a DeviceCommand as a parameter named "command".
     public delegate void CommandHandler(DeviceCommand command);
 
     public class SmartHomeController
